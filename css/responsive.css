@@ -1,0 +1,51 @@
+/*
+Theme Name: Portfolio Project Theme
+Created on: 30.12.2022 
+Created by: Delve S. Philip
+Version: 1.0
+*/
+
+/* Path: css\responsive.css */
+
+/* Media Queries */
+
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) {
+    .container {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .container {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .container {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .container {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    
+}
+
+
+
+
+    
